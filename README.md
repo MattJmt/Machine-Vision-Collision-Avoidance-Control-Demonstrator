@@ -2,12 +2,12 @@
 
 The Machine-Vision-Collision-Avoidance-Control-Demonstrator (MVCACD) shows the benefits of electromechanical control and automation for repetitive and time critical tasks, through a collision avoidance-based arcade machine. The device is aimed at inspiring 11–14 year-olds to consider a career in Engineering. 
 
-<img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/figures/Device_Labeled.png" width="500"/> <img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/gifs/exhibition.gif" width="280"/>
+<img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/figures/Device_Labeled.png" width="500"/> <img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/gifs/exhibition.gif" width="250"/>
 
 
 We used the `OpenCV` library to detect the different obstacles in real time, and avoid them with a stepper motor controlled via a Raspberry Pi. 
 
-<img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/gifs/ObstacleDetection.gif" width="200"/>
+<img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/gifs/ObstacleDetection.gif" width="300"/> <img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/gifs/Joystick_Mode1.gif" width="290"/>
 
 
 | Function | Purpose |
@@ -30,5 +30,4 @@ The MVCACD has three different modes of operation which are increasingly automat
 |3) Computer Controlled | Fully automated machine-vision control, using the camera as input.|
 
 
-<img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/gifs/Joystick_Mode1.gif" width="200"/>
 The device was succesfully presented at the Great Exhibition Road Festival, and was awarded the highest grade of the cohort.
