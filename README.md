@@ -31,4 +31,4 @@ The MVCACD has three different modes of operation which are increasingly automat
 
 
 <img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/gifs/Joystick_Mode1.gif" width="200"/>
-The device was succesfully presented at the Great Exhibition Road Festival.
+The device was succesfully presented at the Great Exhibition Road Festival, and was awarded the highest grade of the cohort.
