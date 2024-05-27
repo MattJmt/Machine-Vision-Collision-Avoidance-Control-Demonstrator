@@ -18,9 +18,6 @@ We used the `OpenCV` library to detect the different obstacles in real time, and
 |whichtrack()| Determines track positions based on coordinates.|
 |channels()| Determines the target position based on identified tracks.|
 
-
-# Modes of Operation
-
 The MVCACD has three different modes of operation which are increasingly automated to exemplify the notion of control systems.
 
 | Mode | Instruction |
