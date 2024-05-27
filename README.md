@@ -7,7 +7,7 @@ The Machine-Vision-Collision-Avoidance-Control-Demonstrator (MVCACD) shows the b
 
 We used the `OpenCV` library to detect the different obstacles in real time, and avoid them with a stepper motor controlled via a Raspberry Pi. 
 
-<img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/gifs/Obstacle%20Detection.gif" width="200"/>
+<img src="https://github.com/MattJmt/Machine-Vision-Collision-Avoidance-Control-Demonstrator/blob/main/gifs/ObstacleDetection.gif" width="200"/>
 
 
 | Function | Purpose |
