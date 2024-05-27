@@ -1,7 +1,6 @@
 ## Machine-Vision-Collision-Avoidance-Control-Demonstrator
 DMT Project on a Mechatronics Device to illustrate the concept of control systems for educational purposes. 
 
-# Overview
 The Machine-Vision-Collision-Avoidance-Control-Demonstrator (MVCACD) shows the benefits of electromechanical control and automation for repetitive and time critical tasks, through a collision avoidance-based arcade machine. The device is aimed at inspiring 11–14 year-olds to consider a career in Engineering. The user’s control is increasingly automated, across the modes listed below.
 
 We used the `OpenCV` library to detect the different obstacles in real time, and avoid them with a stepper motor controlled via a Raspberry Pi. 
